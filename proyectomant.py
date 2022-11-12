@@ -1,6 +1,7 @@
 #MANTENIMIENTO
 #CHANTAL DE GRACIA 8-971-1853    
 # DANIELA MOSCOSO 8-977-974
+#FECHA: NOV 11 
 
 import pdb
 from selenium import webdriver
